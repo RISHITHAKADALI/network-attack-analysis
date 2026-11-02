@@ -1,0 +1,5 @@
+data/*.csv
+outputs/cleaned_data.csv
+__pycache__/
+*.joblib
+.venv/
