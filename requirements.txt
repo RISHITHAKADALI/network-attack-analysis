@@ -4,4 +4,4 @@ scikit-learn
 matplotlib
 streamlit>=1.50
 joblib
-network
+networkx
